@@ -13,7 +13,7 @@
         </header>
         <nav>
             <hr width ="50%">
-            <a href ="portfolio.html">Home</a>
+            <a href ="index.php">Home</a>
             <a href = "about.html">About</a>
             <a href = "contact.html">Contact</a>
         </nav>
