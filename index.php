@@ -16,6 +16,7 @@
             <a href ="index.php">Home</a>
             <a href = "about.html">About</a>
             <a href = "contact.html">Contact</a>
+            <a href = "Resume.html">Resume</a>
         </nav>
         <main>
             <figure id="me">
@@ -24,11 +25,12 @@
             <div id="welcomeText">
                 Hello!<br />
                 <p>Thank you for visiting my professional portfolio website.</p>
-                <p> I am Software Engineer at CSUMB</p>
+                <p>I am currently a Junior in Computer Science at CSUMB under the CSIN3 program.</p>
+                <p>I am currently looking for an internship apportunity</p>
                 <p> Feel free to contact me!</p>
                 <br /> <br />
-                <em>"With ordinary talent and extraordinary <strong>perserverance</strong>, all things attainable"</em><br />
-                -Thomas F. Buxton
+                <!--<em>"With ordinary talent and extraordinary <strong>perserverance</strong>, all things attainable"</em><br />
+                -Thomas F. Buxton -->
     
             </div>
         </main>

@@ -53,3 +53,11 @@ td strong{
 .hobby{
     color: yellow !important;
 }
+#google-form
+{
+    /*margin-left: auto;
+    margin-right: auto;
+    width: 8em;&*/
+    height: 10em;
+   position: relative
+}
