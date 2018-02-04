@@ -20,6 +20,7 @@ nav a:hover{
 }
 #me,#welcomeText{
     float:left;
+    position: relative;
     width: 40%;
 }
 #me img {
@@ -42,16 +43,19 @@ td{
     font-size: 1.3em;
 }
 td strong{
-    color: grey;
+    color: black !important;
 }
 #table-header{
-    background-color: #3cb371;
+    background-color: blue;
 }
 .table-row{
-    background-color: #3cb371;
+    background-color: blue;
 }
 .hobby{
     color: yellow !important;
+}
+.program{
+    color: black !important;
 }
 /*#content
 {

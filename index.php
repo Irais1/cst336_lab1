@@ -8,12 +8,11 @@
     </head>
     <body>
         <header>
-            <h1>Irais Gopar</h1>
-          
+            <h1 style="font-size:60px;">Irais Gopar</h1>
         </header>
         <nav>
             <hr width ="50%">
-            <a href ="index.php">Home</a>
+            <a href ="index.php"><i>Home</i></a>
             <a href = "about.html">About</a>
             <a href = "contact.html">Contact</a>
             <a href = "Resume.html">Resume</a>
