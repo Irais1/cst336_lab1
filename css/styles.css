@@ -23,6 +23,10 @@ nav a:hover{
     position: relative;
     width: 40%;
 }
+#welcomeText{
+    position: relative;
+    padding-top: 100px;
+}
 #me img {
     width:100%;
 }

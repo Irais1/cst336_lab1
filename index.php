@@ -30,6 +30,7 @@
                 <br /> <br />
                 <!--<em>"With ordinary talent and extraordinary <strong>perserverance</strong>, all things attainable"</em><br />
                 -Thomas F. Buxton -->
+                <em>"The best preparation for tomorrow<strong> is doing your best today." </strong></em><br /> -- H. Jackson Brown, Jr.
     
             </div>
         </main>
@@ -38,7 +39,7 @@
         <footer id="fter">
             <hr>
             CST 336. 2018&copy; Gopar<br />
-            <strong>Disclaimer:</strong> The information in this webpage is fictitous.<br />
+            <strong>Disclaimer:</strong> The information in this webpage can fictitous.<br />
             It is used for academic purposes only.<br />
             <img src="https://csumb.edu/sites/default/files/styles/profile_large/public/photo_1_6.jpg?itok=N4I4g9Wl">
         </footer>
