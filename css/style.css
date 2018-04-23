@@ -27,8 +27,14 @@ nav a:hover{
     position: relative;
     padding-top: 100px;
 }
+#about{
+    position: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 1.5em;
+}
 #me img {
-    width:100%;
+    width:50%;
 }
 footer{
     clear:left;
@@ -55,9 +61,14 @@ td strong{
 .table-row{
     background-color: blue;
 }
-.hobby{
-    color: yellow !important;
-}
+/*.hobby{*/
+/*    color: yellow !important;*/
+/*    position: center;*/
+/*}*/
+/*li{*/
+/*    padding-left: 20%;*/
+/*    padding-right:20%;*/
+/*}*/
 .program{
     color: black !important;
 }

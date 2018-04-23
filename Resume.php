@@ -4,7 +4,7 @@
         <meta charset = "utf-8"/>
         <title>Irais Gopar: Personlb Website</title>
         
-        <link href ="css/styles.css" rel =" stylesheet" type = "text/css"/>
+        <link href ="css/style.css" rel =" stylesheet" type = "text/css"/>
     </head>
     <body>
         <header>
@@ -15,7 +15,7 @@
             <hr width ="50%">
             <a href ="index.php">Home</a>
             <a href = "about.html">About</a>
-            <a href = "contact.html">Contact</a>
+            <a href = "projects.html">Projects and Accomplishment</a>
             <a href = "Resume.html"><i>Resume</i></a>
         </nav>
         <main>
@@ -24,7 +24,7 @@
            <!-- <embed src="file_name.pdf" width="800px" height="2100px" />-->
         </figure>
         <div class="columns download">
-                  <embed src="img/i_gopar_Resum.pdf" type="application/pdf"   height="800px" width="70%">
+                  <embed src="img/I_Gopar_Resume.pdf" type="application/pdf"   height="800px" width="70%">
                  <!-- <object width="400" height="400" data="i_gopar_Resum.pdf"></object>-->
                 <!-- <embed src="file_name.pdf" width="800px" height="2100px" />-->
           <p>
@@ -39,3 +39,5 @@
             <img src="https://csumb.edu/sites/default/files/styles/profile_large/public/photo_1_6.jpg?itok=N4I4g9Wl">
         </footer>
        </main>
+    </body>
+</html>

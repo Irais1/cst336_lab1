@@ -4,7 +4,7 @@
         <meta charset = "utf-8"/>
         <title>Irais Gopar: Personlb Website</title>
         
-        <link href ="css/styles.css" rel =" stylesheet" type = "text/css"/>
+        <link href ="css/style.css" rel =" stylesheet" type = "text/css"/>
     </head>
     <body>
         <header>
@@ -14,18 +14,17 @@
             <hr width ="50%">
             <a href ="index.php"><i>Home</i></a>
             <a href = "about.html">About</a>
-            <a href = "contact.html">Contact</a>
+            <a href = "projects.html">Projects and Accomplishments</a>
             <a href = "Resume.html">Resume</a>
         </nav>
         <main>
             <figure id="me">
-                <img src ="img/me.png"/>
+                <img src ="img/me.jpg"/>
             </figure>
             <div id="welcomeText">
                 Hello!<br />
                 <p>Thank you for visiting my professional portfolio website.</p>
-                <p>I am currently a Junior in Computer Science at CSUMB under the CSIN3 program.</p>
-                <p>I am currently looking for an internship apportunity</p>
+                <p>I am currently a Junior in Computer Science at CSUMB under the CSIN3 program, and am currently looking for an internship apportunity</p>
                 <p> Feel free to contact me!</p>
                 <br /> <br />
                 <!--<em>"With ordinary talent and extraordinary <strong>perserverance</strong>, all things attainable"</em><br />
