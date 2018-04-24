@@ -14,9 +14,9 @@
         <nav>
             <hr width ="50%">
             <a href ="index.php">Home</a>
-            <a href = "about.html">About</a>
-            <a href = "projects.html">Projects and Accomplishment</a>
-            <a href = "Resume.html"><i>Resume</i></a>
+            <a href = "about.php">About</a>
+            <a href = "projects.php">Projects and Accomplishment</a>
+            <a href = "Resume.php"><i>Resume</i></a>
         </nav>
         <main>
         <figure id="me">
