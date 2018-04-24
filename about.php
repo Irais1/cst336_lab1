@@ -14,9 +14,9 @@
         <nav>
             <hr width ="50%">
             <a href ="index.php">Home</a>
-            <a href = "about.html"><i>About Me</i></a>
-            <a href = "projects.html">Projects and Accomplishments</a>
-            <a href = "Resume.html">Resume</a>
+            <a href = "about.php"><i>About Me</i></a>
+            <a href = "projects.php">Projects and Accomplishments</a>
+            <a href = "Resume.php">Resume</a>
         </nav>
         <p id ="about">Hello, my name is Irais Gopar, I am a computer science student at CSU Monterey Bay. I aspire to work at a technology company and make a difference helping my community.</p>
         <p id ="about">As a child, I had to find ways to do things on my own as I did not really like relying on others too much. I also really enjoyed helping others and wanted to become a doctor. However, as I grew older I came to realize that computer science was an amazing career and that I would able to create applications that can help my community.</p>
